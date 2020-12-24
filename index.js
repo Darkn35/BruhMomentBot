@@ -16,7 +16,7 @@ const commands = {
 
 client.on("ready", function()
 {
-    console.log("Ready");
+    console.log("Bruh Moment Bot is Ready");
 })
 
 client.on("message", function(message) 
